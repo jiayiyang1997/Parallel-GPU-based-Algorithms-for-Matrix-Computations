@@ -24,7 +24,7 @@ git clone https://github.com/multicore-sp20/Parallel-GPU-based-Algorithms-for-Ma
 ```
 
 2. Open the project in an IDE (a supported version of Microsoft Visual Studio or Xcode), after compilation and linking, run main.cu to enter the user interface.
-![](https://i.ibb.co/nwS5cbD/interface.png)
+![](https://i.ibb.co/nwS5cbD/interface.png=250*250)
 
 ## Running the tests
 
