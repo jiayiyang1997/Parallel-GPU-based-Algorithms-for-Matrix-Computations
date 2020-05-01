@@ -104,7 +104,7 @@ The float input matrices are named as M"Size".txt where "Size" is from 32 to 512
 
 ## Development Environment
 
-* Microsoft Visual Studio 2010
+* Microsoft Visual Studio 2019
 * CUDA 9.0
 
 ## Authors
