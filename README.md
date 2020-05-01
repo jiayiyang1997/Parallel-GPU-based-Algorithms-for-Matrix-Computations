@@ -4,7 +4,7 @@ This is a term project for EE382C Multicore Computing (2020 Spring). The project
   
 You can also find our presentation slides here: [Demo slides](https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing) <br />
   
-and the project report here :[Project report](https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing).
+and the project report here :[Project report](https://www.overleaf.com/read/bjngqkcdqfyk).
 
 ## Getting Started
 
