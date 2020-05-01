@@ -61,6 +61,8 @@ The integer matrix input:
 
 The correct results of operations based on these inputs:
 
+LU Factorization on A/B:
+
 The result L is:
 ```
 1, 0, 0, 0
@@ -75,6 +77,19 @@ The result U is:
 0, 1, 1, 2
 0, 0, 3, -3
 0, 0, 0, 3
+```
+
+The inversion of A/B:
+```
+9.33333, -5, 0.333333, 2.33333
+-5, 2.66667, -0.333333, -1
+2.33333, -1, 0.333333, 0.333333
+0.333333, -0.333333, 0, 0.333333
+```
+
+The determinant of A/B:
+```
+9
 ```
 
 The solution vector for "Ax=b" is:
