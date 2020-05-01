@@ -21,13 +21,34 @@
     <ClInclude Include="kernel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sequential.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="kernel.cpp">
+    <None Include="kernel.cu">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
+    </None>
+    <None Include="main.cu">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </None>
+    <None Include="sequential.cu">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="A_4.txt" />
+    <Text Include="b.txt" />
+    <Text Include="B_4.txt" />
+    <Text Include="M32.txt" />
+    <Text Include="M64.txt" />
+    <Text Include="M128.txt" />
+    <Text Include="M256.txt" />
+    <Text Include="M512.txt" />
+    <Text Include="V32.txt" />
+    <Text Include="V64.txt" />
+    <Text Include="V128.txt" />
+    <Text Include="V256.txt" />
+    <Text Include="V512.txt" />
   </ItemGroup>
 </Project>

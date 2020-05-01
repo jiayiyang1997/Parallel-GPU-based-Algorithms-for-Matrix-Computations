@@ -21,10 +21,27 @@
   <ItemGroup>
     <ClInclude Include="dev_array.h" />
     <ClInclude Include="kernel.h" />
+    <ClInclude Include="sequential.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="kernel.cpp" />
-    <ClCompile Include="main.cpp" />
+    <None Include="kernel.cu" />
+    <None Include="main.cu" />
+    <None Include="sequential.cu" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="A_4.txt" />
+    <Text Include="b.txt" />
+    <Text Include="B_4.txt" />
+    <Text Include="M128.txt" />
+    <Text Include="M256.txt" />
+    <Text Include="M32.txt" />
+    <Text Include="M512.txt" />
+    <Text Include="M64.txt" />
+    <Text Include="V128.txt" />
+    <Text Include="V256.txt" />
+    <Text Include="V32.txt" />
+    <Text Include="V512.txt" />
+    <Text Include="V64.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
