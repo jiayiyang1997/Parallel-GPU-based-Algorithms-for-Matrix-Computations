@@ -1,7 +1,8 @@
 # Parallel GPU based Algorithms for Matrix Computations
 
-This is a term project for EE382C Multicore Computing (2020 Spring). The project title is "Parallel GPU based Algorithms for Matrix Computations". It covers a series of matrix computations from the basic ones (addition/subtraction/scalar multiplication/matrix multiplication) to the complex ones (LU Factorization and three derivative operations: matrix inversion/determinant calculation/solver for systems of equations).
-You can also find our presentation slides here: [Demo Slides](https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing) and the project report here :[Project Report] (https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing).
+This is a term project for EE382C Multicore Computing (2020 Spring). The project title is "Parallel GPU based Algorithms for Matrix Computations". It covers a series of matrix computations from the basic ones (addition/subtraction/scalar multiplication/matrix multiplication) to the complex ones (LU Factorization and three derivative operations: matrix inversion/determinant calculation/solver for systems of equations).<br />
+You can also find our presentation slides here: [Demo Slides](https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing) <br />
+and the project report here :[Project Report] (https://docs.google.com/presentation/d/1gr_-XSUF-LBTZuASVELBzPx9WCqXcYmIe5Iq_sruASQ/edit?usp=sharing).
 
 ## Getting Started
 
@@ -23,8 +24,8 @@ To run this code on your local machine, please follow these steps.
 git clone https://github.com/multicore-sp20/Parallel-GPU-based-Algorithms-for-Matrix-Computations-1.git
 ```
 
-2. Open the project in an IDE (a supported version of Microsoft Visual Studio or Xcode), after compilation and linking, run main.cu to enter the user interface.
-![](https://i.ibb.co/nwS5cbD/interface.png=250*250)
+2. Open the project in an IDE (a supported version of Microsoft Visual Studio or Xcode), after compilation and linking, run main.cu to enter the user interface. <br />
+![](https://i.ibb.co/nwS5cbD/interface.png| width=600)
 
 ## Running the tests
 
